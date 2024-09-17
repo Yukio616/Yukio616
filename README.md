@@ -1,4 +1,7 @@
-I'm Yukio Tachibana, pursuing material Engineering ,(yeh I wanna work on those carbon fibre laptop manufacturing lol ),
-I have been in touch with C, python & javascript.
-I code here and there!! I do have solid basics of DSA but not the leetcode guy lmao   just could explain the structures can't solve even easy to medium problems lol if you guys could help it be wonderful!! Also I use ubuntu and windows in dual boot its been more than 3 yrs running dual boot!! VS code with vim motions in ubuntu is not bad right ? yeh I use vim motions not the expert but I do find it helpful!! 
-so  yeah Hello again to everyone!! (Holas Todo panas!!)
+-->Yukio Tachibana, a material engineering student, interested in carbon fiber laptop manufacturing.
+
+-->Proficient in C, Python, and JavaScript; codes occasionally and has solid DSA basics.
+
+-->Dual-boot user (Ubuntu & Windows) for over 3 years, prefers using VS Code with Vim motions.
+
+-->Fluent in English and Spanish, currently learning German and Chinese, enjoys a fun, laid-back approach to learning and coding.
