@@ -1,4 +1,4 @@
--->Yukio Tachibana, a material engineering student, interested in carbon fiber laptop manufacturing.
+-->Yukio Tachibana, a material engineering student, interested in carbon fiber  manufacturing.
 
 -->Proficient in C, Python, and JavaScript; codes occasionally and has solid DSA basics.
 
