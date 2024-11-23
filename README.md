@@ -4,4 +4,4 @@
 
 -->Dual-boot user (Ubuntu & Windows) for over 3 years, prefers using VS Code with Vim motions.
 
--->Fluent in English and Spanish, currently learning German and Chinese, enjoys a fun, laid-back approach to learning and coding.
+-->Fluent in English and Spanish, currently learning German and Chinese, a Polyglot!!
