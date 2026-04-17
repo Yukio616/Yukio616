@@ -1,6 +1,4 @@
--->Yukio Tachibana, a material engineering student!
-
--->Proficient in C, Python, and JavaScript; codes occasionally and has solid DSA basics.
-
--->Dual-boot user (Ubuntu & Windows) for over 3 years, prefers using VS Code with Vim motions.
+--> Yukio Tachibana (Arsha) , a materials engineering student!
+--> Codes occasionally...Chilling in a better field
+--> This github has all the cool stuff I loved working on...
 
