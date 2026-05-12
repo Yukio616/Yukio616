@@ -1,42 +1,62 @@
 # Hey, I'm Arsha
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF\&lines=Materials+Science+%26+Engineering;Computational+Materials;WAAM+%7C+DFT+%7C+Simulation;Engineering+%2B+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Materials+Science+%26+Engineering;Computational+Materials;WAAM+%7C+DFT+%7C+Simulation;Engineering+%2B+Software)](https://git.io/typing-svg)
 
-Materials Science & Engineering student interested in computational materials engineering, additive manufacturing, and scientific computing.
+Materials Science & Engineering student exploring computational materials, additive manufacturing, simulation workflows, and scientific computing.
 
 ---
 
 ## Areas of Interest
 
-* Wire Arc Additive Manufacturing (WAAM)
-* DFT & Computational Materials
-* FEM & Simulation Workflows
-* Materials Characterization (SEM/EDAX, Spectroscopy)
-* Engineering-focused Software Tools
+- Wire Arc Additive Manufacturing (WAAM)
+- Computational Materials & DFT
+- FEM & Multiphysics Simulation
+- Materials Characterization (SEM/EDAX, Spectroscopy)
+- Engineering-focused Software & Visualization
 
 ---
 
-## Tech Stack
+## Programming & Web
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,react,html,css,git,matlab)](https://skillicons.dev)
 
 ---
 
-## Engineering Tools
+## Engineering & Scientific Tools
 
-ANSYS • COMSOL • SolidWorks • SEM/EDAX
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+![COMSOL](https://img.shields.io/badge/COMSOL-00599C?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge)
+![SEM/EDAX](https://img.shields.io/badge/SEM%2FEDAX-2E86C1?style=for-the-badge)
+![DFT](https://img.shields.io/badge/DFT-Scientific_Computing-6A5ACD?style=for-the-badge)
+![WAAM](https://img.shields.io/badge/WAAM-Additive_Manufacturing-008B8B?style=for-the-badge)
 
 ---
 
 ## Current Focus
 
-Working on simulation workflows, AM research, and engineering software projects connecting materials science with computation.
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harsha-varthanan/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tachibanayukio6@gmail.com)
+- Computational Materials Engineering
+- Additive Manufacturing & WAAM
+- FEM & Simulation Workflows
+- Scientific Computing & Visualization
+- Engineering Software Projects
 
 ---
 
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-varthanan/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tachibanayukio6@gmail.com)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukio616&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukio616&layout=compact&theme=tokyonight)
+
+---
+
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer)
