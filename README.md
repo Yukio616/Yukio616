@@ -26,12 +26,12 @@ Materials Science & Engineering student exploring computational materials, addit
 
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 ![COMSOL](https://img.shields.io/badge/COMSOL-00599C?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge)
 ![SEM/EDAX](https://img.shields.io/badge/SEM%2FEDAX-2E86C1?style=for-the-badge)
 ![DFT](https://img.shields.io/badge/DFT-Scientific_Computing-6A5ACD?style=for-the-badge)
 ![WAAM](https://img.shields.io/badge/WAAM-Additive_Manufacturing-008B8B?style=for-the-badge)
+
 
 ---
 
@@ -51,11 +51,6 @@ Materials Science & Engineering student exploring computational materials, addit
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tachibanayukio6@gmail.com)
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukio616&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukio616&layout=compact&theme=tokyonight)
 
 ---
 
