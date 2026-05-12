@@ -1,4 +1,18 @@
---> Yukio Tachibana (Arsha) , a materials engineering student!
---> Codes occasionally...Chilling in a better field
---> This github has all the cool stuff I loved working on...
+# Hey, I'm Arsha
 
+Materials Science & Engineering student interested in additive manufacturing, computational materials engineering, and scientific computing.
+
+## Current Interests
+
+* Wire Arc Additive Manufacturing (WAAM)
+* DFT & computational materials exploration
+* FEM and simulation workflows
+* Materials characterization (SEM/EDAX, spectroscopy)
+* Engineering-focused software tools
+
+## Tech Stack
+
+Python • JavaScript • React • HTML/CSS
+ANSYS • COMSOL • MATLAB • SolidWorks • Git
+
+I enjoy building software, simulations, and engineering tools that connect materials science with computation.
