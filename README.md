@@ -40,12 +40,3 @@ Working on simulation workflows, AM research, and engineering software projects 
 
 ---
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukio616\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukio616\&layout=compact\&theme=tokyonight)
-
----
-
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=120\&section=footer)
